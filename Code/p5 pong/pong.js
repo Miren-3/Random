@@ -1,3 +1,5 @@
+//this was made in p5.js
+
 let ballvel, slider2y, slidervel;
 let ball = [];
 let sliderholder = [];

@@ -84,9 +84,7 @@
                     am++;
                     terminal();
                     return;
-                } else {
-                    p.innerHTML = `> command not found: ${input}`;
-                }
+                } else p.innerHTML = `> command not found: ${input}`;
                 mainBox.append(p);
                 text.querySelector("input").value = "";
                 top += 25;

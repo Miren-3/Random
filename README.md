@@ -1,4 +1,4 @@
 - Hi! I’m Miren | also known as 47 👋
 - Some coding projects may be in polish because im polish
 - dont expect my code to be good lol
-nothing much to see here
+- nothing much to see here
